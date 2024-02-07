@@ -193,7 +193,7 @@
   </tr>
     
 </table>
-Here are some 🦜 Party Parrots:
+<!-- Here are some 🦜 Party Parrots:
 
 
 
@@ -224,7 +224,7 @@ Here are some 🦜 Party Parrots:
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-
+ -->
 
 <table align="center">
   <tr>
